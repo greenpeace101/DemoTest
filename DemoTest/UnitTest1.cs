@@ -8,7 +8,7 @@ namespace DemoTest
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CheckMessage()
         {
             //this is a test change
             Assert.AreEqual("Hello World", Program.createMessage());
