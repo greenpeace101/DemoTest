@@ -14,7 +14,7 @@ namespace DemoProject
 
         public static String createMessage()
         {
-            return "Hello World!";
+            return "Hello World";
         }
     }
 }
