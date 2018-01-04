@@ -11,7 +11,7 @@ namespace DemoTest
         public void CheckMessage()
         {
             //another testssss
-            Assert.AreEqual("Hello World!", Program.createMessage());
+            Assert.AreEqual("Hello World", Program.createMessage());
         }
     }
 }
