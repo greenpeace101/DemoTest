@@ -10,8 +10,8 @@ namespace DemoTest
         [TestMethod]
         public void CheckMessage()
         {
-            //another testssss
-            Assert.AreEqual("Hello World", Program.createMessage());
+            //another testss
+            Assert.AreEqual("Hello World!", Program.createMessage());
         }
     }
 }
